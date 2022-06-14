@@ -8,5 +8,5 @@ This is a navigation bottom which is written by jetpack compose
 <p float="center">
   <img src="/images/bnav1.jpg" width="250" />
   <img src="/images/bnav2.jpg" width="250" /> 
-  <img src="/images/bnav2.jpg" width="250" />
+  <img src="/images/bnav3.jpg" width="250" />
 </p>
